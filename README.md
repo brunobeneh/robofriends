@@ -1,4 +1,10 @@
 # robofriends
+It's an exercise for ZTM course 
+
+The Complete Web Developer in 2023
+
+It was made on Javascript and React.
+
 Tutorial for React
 To run the project:
 
